@@ -30,6 +30,15 @@ Using Python data analysis tools, we explore whether larger populations are link
 - **Statistical Testing**: Performed significance tests for relationships
 - **Visualization**: Created comprehensive charts using Matplotlib
 
+- ### Tools & Libraries
+- **Python 3.x**
+- **Pandas**: Data manipulation and analysis
+- **Matplotlib**: Data visualization
+- **NumPy**: Numerical computations
+- **Scipy**: Statistical analysis
+
+  
+
 
 
    
